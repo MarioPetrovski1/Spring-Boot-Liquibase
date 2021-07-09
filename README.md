@@ -41,5 +41,7 @@ And that's it just run the application like any Spring Boot application.
 To run it with maven open command line in the project's folder and run this 
 command: mvn spring-boot:run
 
+If you want to have a look at the whole blog post you can find it here : https://iwconnect.com/database-versioning-with-spring-boot-and-liquibase/
+
 
 
